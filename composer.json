@@ -1,5 +1,5 @@
 {
-    "name": "drobee/nova-sluggable",
+    "name": "veltix/nova-sluggable",
     "description": "Slug field for Laravel Nova",
     "keywords": [
         "laravel",
